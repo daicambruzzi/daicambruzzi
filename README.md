@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://github.com/daicambruzzi/daicambruzzi/blob/main/name.png" alt="Daiana Cambruzzi Ávila" />
-</h1>
-
 ## Hey! 👋
 I'm Daiana, a 26 years old Front-End Software Engineer from Brazil.
 
