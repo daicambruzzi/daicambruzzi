@@ -9,7 +9,7 @@ I'm Daiana, a 26 years old Front-End Software Engineer from Brazil.
 - 👨‍💻 TypeScript, JavaScript, Java, Node.js
 - ⚙️ Angular, React, StencilJS, Svelte, Vue 
 - 👁️ SASS, CSS, Stylus
-- 💽 Oracle, Postgress, MySQL, Mongo
+- 💽 Oracle, Postgres, MySQL, Mongo
 - 💬 Message broker Apache ActiveMQ, Apache Kafka
 
 ## Contact
