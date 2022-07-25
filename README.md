@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Daiana, a 26 years old Front-End Software Engineer from Brazil.
+I'm Daiana, a 28 years old Front-End Software Engineer from Brazil.
 
 - 👥 Core team member at [@osgufers](https://github.com/osgufers)
 - Speaker at [The Developers Conference](https://thedevconf.com/pt)
